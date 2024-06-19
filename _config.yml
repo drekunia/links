@@ -15,13 +15,6 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCNM9YpOeBdQQnfNYPtewj1g
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
     # GITHUB
   - Name: GitHub
     URL: http://github.com
@@ -29,12 +22,26 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: drekunia
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
     # CUSTOM LINK
   - Name: Blog
     URL: https://drekunia.github.io
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
+
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: UCNM9YpOeBdQQnfNYPtewj1g
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
 
     # INSTAGRAM
   - Name: Instagram
@@ -56,13 +63,6 @@ links:
     Username: drekunia
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
-
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: drekunia
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
 
     # EMAIL
   - Name: Email
