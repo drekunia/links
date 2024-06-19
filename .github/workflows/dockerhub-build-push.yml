@@ -4,10 +4,10 @@ on:
   push:
     branches:
       - 'master'
-      
+
 jobs:
   docker:
-    if: github.repository == 'harsh98trivedi/links'
+    if: github.repository == 'drekunia/links'
     runs-on: ubuntu-latest
     steps:
       -
