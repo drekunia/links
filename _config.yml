@@ -8,7 +8,7 @@ tagline: Hi, I'm Andre. I'm a tech enthusiast based in Indonesia. I create conte
 Image_URL: https://github.com/drekunia.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://raw.githubusercontent.com/drekunia/assets/main/img/messy-desk-with-keyboards.jpg
+Cover_Image: assets/images/messy-desk-with-keyboards.jpg
 
 # SOCIAL MEDIA
 links:
