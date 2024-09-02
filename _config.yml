@@ -2,7 +2,7 @@
 name: Andre Kurniawan
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Hi, I'm Andre. I'm a tech enthusiast based in Indonesia. I create content about software engineering and other tech stuff in general.
+tagline: Hi, I'm Andre. I'm a tech enthusiast based in Indonesia. I create contents about games or anything that has been lingering in my head long enough, and of course tech stuff too.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/drekunia.png
@@ -12,64 +12,98 @@ Cover_Image: assets/images/messy-desk-with-keyboards.jpg
 
 # SOCIAL MEDIA
 links:
-
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: drekunia
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
+  # YOUTUBE
+  - Name: The Wired Pirate
+    URL: https://www.youtube.com
+    Username: "@thewiredpirate"
+    Color: "#ff0000"
+    Icon-Class: fab fa-youtube
 
-    # LINKEDIN
-  - Name: LinkedIn
+    # INSTAGRAM
+  - Name: thewiredpirate
+    URL: https://www.instagram.com
+    Username: thewiredpirate
+    Color: "#DD2A7B"
+    Icon-Class: fab fa-instagram
+
+    # TIKTOK
+  - Name: thewiredpirate
+    URL: https://www.tiktok.com
+    Username: thewiredpirate
+    Color: "#FE2C55"
+    Icon-Class: fab fa-tiktok
+
+    # FACEBOOK
+  - Name: The Wired Pirate
+    URL: https://www.facebook.com
+    Username: wiredpiratesden
+    Color: "#3b5998"
+    Icon-Class: fab fa-facebook
+
+    # DISCORD
+  - Name: Wired Pirates Den
+    URL: "https://discord.gg"
+    Username: tVwD6XkeUt
+    Icon-Class: fab fa-discord
+    Color: "#5865F2"
+    Text_Color: "#ffffff"
+
+    # YOUTUBE
+  - Name: Andre Kurniawan
+    URL: https://www.youtube.com
+    Username: "@drekunia"
+    Color: "#ff0000"
+    Icon-Class: fab fa-youtube
+
+    # INSTAGRAM
+  - Name: drekunia
+    URL: https://www.instagram.com
+    Username: drekunia
+    Color: "#DD2A7B"
+    Icon-Class: fab fa-instagram
+
+    # TWITTER
+  - Name: drekunia
+    URL: https://x.com
+    Username: drekunia
+    Color: "#1DA1F2"
+    Icon-Class: fab fa-twitter
+
+  #   # FACEBOOK
+  # - Name: Facebook
+  #   URL: https://www.facebook.com
+  #   Username: drekunia
+  #   Color: "#3b5998"
+  #   Icon-Class: fab fa-facebook
+  # LINKEDIN
+  - Name: Andre Kurniawan
     URL: https://www.linkedin.com/in
     Username: drekunia
-    Color: '#2867B2'
+    Color: "#2867B2"
     Icon-Class: fab fa-linkedin-in
+
+    # GITHUB
+  - Name: drekunia
+    URL: http://github.com
+    Username: drekunia
+    Color: "#6e5494"
+    Icon-Class: fab fa-github
 
     # CUSTOM LINK
   - Name: Blog
     URL: https://drekunia.github.io
     Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCNM9YpOeBdQQnfNYPtewj1g
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: drekunia
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-
-    # TWITTER
-  - Name: Twitter
-    URL: https://x.com
-    Username: drekunia
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: drekunia
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+    Color: "#ffb142"
+    Text_Color: "#ffffff"
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:drekunia@gmail.com'
+    URL: "mailto:drekunia@gmail.com"
     Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
+    Color: "#e17055"
+    Text_Color: "#ffffff"
 
   #   # THREADS.NET
   # - Name: Threads
@@ -170,14 +204,6 @@ links:
   #   Text_Color: '#000000'
   #   Icon-Class: fab fa-steam
 
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username:
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
-
   #   # PINTEREST
   # - Name: Pinterest
   #   URL: https://pinterest.com
@@ -235,13 +261,6 @@ links:
   #   Icon-Class: fa-brands fa-skype
   #   Color: '#00aff0'
   #   Text_Color: '#ffffff'
-
-  #   # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username:
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
 
   #   # MEDIUM
   # - Name: Medium
