@@ -2,95 +2,75 @@
 name: Andre Kurniawan
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Hi, I'm Andre. I'm a tech enthusiast based in Indonesia. I create contents about games or anything that has been lingering in my head long enough, and of course tech stuff too.
+tagline: Hi, I'm Andre, an AI enthusiast based in Indonesia. Feel free to reach out.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/drekunia.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: assets/images/messy-desk-with-keyboards.jpg
+Cover_Image: assets/images/background.png
 
 # SOCIAL MEDIA
 links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-  # YOUTUBE
-  - Name: The Wired Pirate
-    URL: https://www.youtube.com
-    Username: "@thewiredpirate"
-    Color: "#ff0000"
-    Icon-Class: fab fa-youtube
+    # GITHUB
+  - Name: Github
+    URL: http://github.com
+    Username: drekunia
+    Color: "#6e5494"
+    Icon-Class: fab fa-github
 
-    # INSTAGRAM
-  - Name: thewiredpirate
-    URL: https://www.instagram.com
-    Username: thewiredpirate
-    Color: "#DD2A7B"
-    Icon-Class: fab fa-instagram
-
-    # TIKTOK
-  - Name: thewiredpirate
-    URL: https://www.tiktok.com
-    Username: "@thewiredpirate"
-    Color: "#FE2C55"
-    Icon-Class: fab fa-tiktok
-
-    # FACEBOOK
-  - Name: The Wired Pirate
-    URL: https://www.facebook.com
-    Username: wiredpiratesden
-    Color: "#3b5998"
-    Icon-Class: fab fa-facebook
-
-    # DISCORD
-  - Name: Wired Pirates Den
-    URL: "https://discord.gg"
-    Username: tVwD6XkeUt
-    Icon-Class: fab fa-discord
-    Color: "#5865F2"
-    Text_Color: "#ffffff"
+  # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: drekunia
+    Color: "#2867B2"
+    Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
-  - Name: drekunia
+  - Name: YouTube
     URL: https://www.youtube.com
     Username: "@drekunia"
     Color: "#ff0000"
     Icon-Class: fab fa-youtube
 
     # INSTAGRAM
-  - Name: drekunia
+  - Name: Instagram
     URL: https://www.instagram.com
     Username: drekunia
     Color: "#DD2A7B"
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: drekunia
+  - Name: Twitter
     URL: https://x.com
     Username: drekunia
     Color: "#1DA1F2"
     Icon-Class: fab fa-twitter
 
-  #   # FACEBOOK
-  # - Name: Facebook
-  #   URL: https://www.facebook.com
-  #   Username: drekunia
-  #   Color: "#3b5998"
-  #   Icon-Class: fab fa-facebook
-
-  # LINKEDIN
-  - Name: Andre Kurniawan
-    URL: https://www.linkedin.com/in
+    # THREADS.NET
+  - Name: Threads
+    URL: https://threads.net
     Username: drekunia
-    Color: "#2867B2"
-    Icon-Class: fab fa-linkedin-in
+    Color: '#000000'
+    Icon-Class: fa-brands fa-threads
+    Text_Color: '#ffffff'
 
-    # GITHUB
-  - Name: drekunia
-    URL: http://github.com
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
     Username: drekunia
-    Color: "#6e5494"
-    Icon-Class: fab fa-github
+    Color: "#3b5998"
+    Icon-Class: fab fa-facebook
+
+    # DISCORD
+  - Name: Discord
+    URL: "https://discord.gg"
+    Username: tVwD6XkeUt
+    Icon-Class: fab fa-discord
+    Color: "#5865F2"
+    Text_Color: "#ffffff"
 
     # CUSTOM LINK
   - Name: Blog
@@ -106,13 +86,6 @@ links:
     Color: "#e17055"
     Text_Color: "#ffffff"
 
-  #   # THREADS.NET
-  # - Name: Threads
-  #   URL: https://threads.net
-  #   Username: harsh98trivedi
-  #   Color: '#000000'
-  #   Icon-Class: fa-brands fa-threads
-  #   Text_Color: '#ffffff'
 
   #   # CLUBHOUSE
   # - Name: Clubhouse
